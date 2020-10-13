@@ -2,18 +2,11 @@
 
 ## Requerimientos
 
-* Node.js 8.x o superior (8.12 recomendado)
-
-Usando `nvm`:
-
-```
-nvm install 8.12
-nvm use 8.12
-```
+* Node.js 12.x o superior
 
 ## Uso
 
 ```
 npm install
-npm start
+npm run dev
 ```
